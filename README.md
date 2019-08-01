@@ -23,3 +23,8 @@ performing.
 performing
 
 # Prerequisites
+1. Pandas 0.23.4
+2. Numpy 1.15.4
+3. Seaborn 0.9.0
+4. Matplotlib 3.0.3
+5. Sklearn 0.20.1
