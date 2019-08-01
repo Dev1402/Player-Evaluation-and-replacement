@@ -1,4 +1,4 @@
-# Findiing Replacement of a Player
+# Finding Replacement of a Player
 ## 1) Overview:
 There is a Bid by top 6 teams for Michael Keane. The aim is to study the performance of Michael Keane and
 other players to evaluate the performance
